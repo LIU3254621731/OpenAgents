@@ -1,0 +1,344 @@
+2026-01-07 17:51:48,576 - agent_discussion_system - INFO - main.py:26 - 多智能体讨论系统 Beta 版启动
+2026-01-07 17:51:48,576 - agent_discussion_system - WARNING - json_handler.py:55 - JSON文件不存在: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 17:51:48,577 - agent_discussion_system - INFO - app_config.py:81 - 配置文件不存在，使用默认配置
+2026-01-07 17:51:48,577 - agent_discussion_system - DEBUG - json_handler.py:37 - 数据成功保存到文件: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 17:51:48,577 - agent_discussion_system - INFO - app_config.py:98 - 配置文件保存成功
+2026-01-07 17:51:49,055 - agent_discussion_system - INFO - workflow_manager.py:44 - 智能体 专家A 已添加到流程管理器
+2026-01-07 17:51:49,056 - agent_discussion_system - INFO - workflow_manager.py:44 - 智能体 专家B 已添加到流程管理器
+2026-01-07 17:51:49,056 - agent_discussion_system - INFO - workflow_manager.py:44 - 智能体 协调者 已添加到流程管理器
+2026-01-07 17:51:49,056 - agent_discussion_system - INFO - workflow_manager.py:74 - 讨论流程已设置，包含 3 个智能体
+2026-01-07 17:51:49,115 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 17:51:51,032 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 17:51:51,088 - agent_discussion_system - INFO - openai_model.py:184 - OpenAI模型适配器HTTP客户端已关闭
+2026-01-07 17:52:44,818 - agent_discussion_system - INFO - main.py:26 - 多智能体讨论系统 Beta 版启动
+2026-01-07 17:52:44,819 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 17:52:44,819 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 17:52:45,197 - agent_discussion_system - INFO - workflow_manager.py:44 - 智能体 专家A 已添加到流程管理器
+2026-01-07 17:52:45,198 - agent_discussion_system - INFO - workflow_manager.py:44 - 智能体 专家B 已添加到流程管理器
+2026-01-07 17:52:45,198 - agent_discussion_system - INFO - workflow_manager.py:44 - 智能体 协调者 已添加到流程管理器
+2026-01-07 17:52:45,198 - agent_discussion_system - INFO - workflow_manager.py:74 - 讨论流程已设置，包含 3 个智能体
+2026-01-07 17:52:45,221 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 17:52:45,804 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 17:52:45,813 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 17:52:45,830 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 17:52:45,839 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 17:52:46,074 - agent_discussion_system - INFO - main.py:45 - 应用程序启动成功
+2026-01-07 17:52:52,375 - agent_discussion_system - INFO - chat_widget.py:224 - 聊天对话流已清空
+2026-01-07 17:52:52,377 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 17:52:52,377 - agent_discussion_system - INFO - main_window.py:430 - 新建讨论
+2026-01-07 17:53:06,256 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 17:53:06,256 - agent_discussion_system - INFO - main_window.py:561 - 应用程序已关闭
+2026-01-07 17:53:06,275 - agent_discussion_system - INFO - openai_model.py:184 - OpenAI模型适配器HTTP客户端已关闭
+2026-01-07 18:01:23,407 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:01:23,555 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-07 18:01:23,555 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 18:01:23,555 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 18:01:23,558 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:01:23,588 - agent_discussion_system - INFO - __init__.py:111 - 数据库初始化脚本执行成功
+2026-01-07 18:01:23,588 - agent_discussion_system - INFO - __init__.py:89 - 数据库初始化完成
+2026-01-07 18:01:23,589 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-07 18:01:23,943 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-07 18:01:23,944 - agent_discussion_system - INFO - workflow_manager.py:86 - 智能体 专家A 已添加到流程管理器
+2026-01-07 18:01:23,944 - agent_discussion_system - INFO - workflow_manager.py:86 - 智能体 专家B 已添加到流程管理器
+2026-01-07 18:01:23,944 - agent_discussion_system - ERROR - workflow_manager.py:77 - 从数据库加载智能体失败：'CAN_END_DISCUSSION'
+2026-01-07 18:01:23,962 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:01:24,350 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 18:01:24,356 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 18:01:24,368 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 18:01:24,376 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 18:01:24,520 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-07 18:01:35,835 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: sb
+2026-01-07 18:01:35,835 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:01:35,835 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: sb
+2026-01-07 18:01:35,837 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:01:35,837 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:01:35,837 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:01:35,837 - agent_discussion_system - INFO - workflow_manager.py:201 - 讨论流程已重置
+2026-01-07 18:01:35,837 - agent_discussion_system - WARNING - workflow_manager.py:125 - 讨论流程为空，无法获取下一个智能体
+2026-01-07 18:01:35,837 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:01:35,838 - agent_discussion_system - WARNING - discussion_engine.py:133 - 没有可用的智能体，讨论结束
+2026-01-07 18:01:35,838 - agent_discussion_system - INFO - discussion_engine.py:226 - 讨论引擎停止
+2026-01-07 18:01:35,842 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:01:35,842 - agent_discussion_system - INFO - main_window.py:523 - 讨论结束，共 0 轮，耗时 0.00 秒
+2026-01-07 18:01:39,834 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:01:39,835 - agent_discussion_system - INFO - main_window.py:565 - 应用程序已关闭
+2026-01-07 18:01:39,849 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-07 18:01:39,849 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-07 18:01:39,884 - agent_discussion_system - INFO - openai_model.py:184 - OpenAI模型适配器HTTP客户端已关闭
+2026-01-07 18:02:16,640 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:02:16,780 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-07 18:02:16,781 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 18:02:16,781 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 18:02:16,782 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:02:16,782 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-07 18:02:17,139 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-07 18:02:17,139 - agent_discussion_system - INFO - workflow_manager.py:86 - 智能体 专家A 已添加到流程管理器
+2026-01-07 18:02:17,139 - agent_discussion_system - INFO - workflow_manager.py:86 - 智能体 专家B 已添加到流程管理器
+2026-01-07 18:02:17,140 - agent_discussion_system - ERROR - workflow_manager.py:77 - 从数据库加载智能体失败：'CAN_END_DISCUSSION'
+2026-01-07 18:02:17,159 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:02:17,454 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 18:02:17,461 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 18:02:17,473 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 18:02:17,481 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 18:02:17,647 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-07 18:02:23,129 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: 又何妨ifgiogb
+2026-01-07 18:02:23,130 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:02:23,130 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: 又何妨ifgiogb
+2026-01-07 18:02:23,131 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:02:23,131 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:02:23,131 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:02:23,131 - agent_discussion_system - INFO - workflow_manager.py:201 - 讨论流程已重置
+2026-01-07 18:02:23,131 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:02:23,131 - agent_discussion_system - WARNING - workflow_manager.py:125 - 讨论流程为空，无法获取下一个智能体
+2026-01-07 18:02:23,132 - agent_discussion_system - WARNING - discussion_engine.py:133 - 没有可用的智能体，讨论结束
+2026-01-07 18:02:23,132 - agent_discussion_system - INFO - discussion_engine.py:226 - 讨论引擎停止
+2026-01-07 18:02:23,134 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:02:23,134 - agent_discussion_system - INFO - main_window.py:523 - 讨论结束，共 0 轮，耗时 0.00 秒
+2026-01-07 18:02:30,180 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: 又何妨ifgiogb
+2026-01-07 18:02:30,180 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:02:30,180 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: 又何妨ifgiogb
+2026-01-07 18:02:30,181 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:02:30,182 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:02:30,182 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:02:30,182 - agent_discussion_system - INFO - workflow_manager.py:201 - 讨论流程已重置
+2026-01-07 18:02:30,183 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:02:30,183 - agent_discussion_system - WARNING - workflow_manager.py:125 - 讨论流程为空，无法获取下一个智能体
+2026-01-07 18:02:30,183 - agent_discussion_system - WARNING - discussion_engine.py:133 - 没有可用的智能体，讨论结束
+2026-01-07 18:02:30,183 - agent_discussion_system - INFO - discussion_engine.py:226 - 讨论引擎停止
+2026-01-07 18:02:30,186 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:02:30,186 - agent_discussion_system - INFO - main_window.py:523 - 讨论结束，共 0 轮，耗时 0.00 秒
+2026-01-07 18:02:30,763 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: 又何妨ifgiogb
+2026-01-07 18:02:30,763 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:02:30,763 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: 又何妨ifgiogb
+2026-01-07 18:02:30,764 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:02:30,764 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:02:30,764 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:02:30,764 - agent_discussion_system - INFO - workflow_manager.py:201 - 讨论流程已重置
+2026-01-07 18:02:30,764 - agent_discussion_system - WARNING - workflow_manager.py:125 - 讨论流程为空，无法获取下一个智能体
+2026-01-07 18:02:30,765 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:02:30,765 - agent_discussion_system - WARNING - discussion_engine.py:133 - 没有可用的智能体，讨论结束
+2026-01-07 18:02:30,765 - agent_discussion_system - INFO - discussion_engine.py:226 - 讨论引擎停止
+2026-01-07 18:02:30,768 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:02:30,769 - agent_discussion_system - INFO - main_window.py:523 - 讨论结束，共 0 轮，耗时 0.00 秒
+2026-01-07 18:02:31,139 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: 又何妨ifgiogb
+2026-01-07 18:02:31,139 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:02:31,139 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: 又何妨ifgiogb
+2026-01-07 18:02:31,140 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:02:31,140 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:02:31,140 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:02:31,140 - agent_discussion_system - INFO - workflow_manager.py:201 - 讨论流程已重置
+2026-01-07 18:02:31,140 - agent_discussion_system - WARNING - workflow_manager.py:125 - 讨论流程为空，无法获取下一个智能体
+2026-01-07 18:02:31,141 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:02:31,141 - agent_discussion_system - WARNING - discussion_engine.py:133 - 没有可用的智能体，讨论结束
+2026-01-07 18:02:31,141 - agent_discussion_system - INFO - discussion_engine.py:226 - 讨论引擎停止
+2026-01-07 18:02:31,144 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:02:31,145 - agent_discussion_system - INFO - main_window.py:523 - 讨论结束，共 0 轮，耗时 0.00 秒
+2026-01-07 18:02:32,300 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:02:32,300 - agent_discussion_system - INFO - main_window.py:565 - 应用程序已关闭
+2026-01-07 18:02:32,315 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-07 18:02:32,316 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-07 18:02:32,316 - agent_discussion_system - INFO - openai_model.py:184 - OpenAI模型适配器HTTP客户端已关闭
+2026-01-07 18:03:23,808 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:03:23,946 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-07 18:03:23,946 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 18:03:23,947 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 18:03:23,947 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:03:23,947 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-07 18:03:24,302 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-07 18:03:24,302 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-07 18:03:24,302 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-07 18:03:24,302 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-07 18:03:24,302 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-07 18:03:24,302 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-07 18:03:24,302 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-07 18:03:24,321 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:03:24,617 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 18:03:24,624 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 18:03:24,635 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 18:03:24,643 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 18:03:24,770 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-07 18:03:31,148 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: QAEFVQWE
+2026-01-07 18:03:31,148 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:03:31,149 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: QAEFVQWE
+2026-01-07 18:03:31,149 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:03:31,150 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:03:31,150 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:03:31,150 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 协调者 记忆已清空
+2026-01-07 18:03:31,150 - agent_discussion_system - INFO - workflow_manager.py:207 - 讨论流程已重置
+2026-01-07 18:03:31,150 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:03:31,150 - agent_discussion_system - DEBUG - openai_model.py:103 - 调用OpenAI API，模型: gpt-4o-mini
+2026-01-07 18:03:49,268 - agent_discussion_system - INFO - discussion_engine.py:268 - 讨论引擎暂停
+2026-01-07 18:03:49,269 - agent_discussion_system - INFO - main_window.py:471 - 讨论已暂停
+2026-01-07 18:03:52,084 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:03:52,085 - agent_discussion_system - INFO - main_window.py:476 - 讨论已终止
+2026-01-07 18:03:53,932 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: QAEFVQWE
+2026-01-07 18:03:53,932 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:03:53,933 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: QAEFVQWE
+2026-01-07 18:03:55,246 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:03:55,247 - agent_discussion_system - INFO - main_window.py:476 - 讨论已终止
+2026-01-07 18:03:57,124 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:03:57,125 - agent_discussion_system - INFO - main_window.py:565 - 应用程序已关闭
+2026-01-07 18:03:57,136 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-07 18:03:57,136 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-07 18:11:34,466 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:11:34,637 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-07 18:11:34,638 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 18:11:34,638 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 18:11:34,638 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:11:34,639 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-07 18:11:35,014 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-07 18:11:35,014 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-07 18:11:35,014 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-07 18:11:35,014 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-07 18:11:35,015 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-07 18:11:35,015 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-07 18:11:35,015 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-07 18:11:35,031 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:11:35,409 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 18:11:35,413 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 18:11:35,418 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 18:11:35,420 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 18:11:35,574 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-07 18:11:47,589 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: 长期维持v
+2026-01-07 18:11:47,589 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-07 18:11:47,590 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: 长期维持v
+2026-01-07 18:11:47,591 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-07 18:11:47,591 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-07 18:11:47,591 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-07 18:11:47,591 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 协调者 记忆已清空
+2026-01-07 18:11:47,591 - agent_discussion_system - INFO - workflow_manager.py:207 - 讨论流程已重置
+2026-01-07 18:11:47,591 - agent_discussion_system - DEBUG - openai_model.py:103 - 调用OpenAI API，模型: gpt-4o-mini
+2026-01-07 18:11:47,592 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-07 18:12:04,236 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:12:04,237 - agent_discussion_system - INFO - main_window.py:565 - 应用程序已关闭
+2026-01-07 18:12:04,246 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-07 18:12:04,246 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-07 18:13:17,041 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:13:17,198 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-07 18:13:17,199 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 18:13:17,199 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 18:13:17,200 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:13:17,200 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-07 18:13:17,634 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-07 18:13:17,634 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-07 18:13:17,635 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-07 18:13:17,635 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-07 18:13:17,635 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-07 18:13:17,635 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-07 18:13:17,636 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-07 18:13:17,658 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:13:18,217 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 18:13:18,221 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 18:13:18,225 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 18:13:18,227 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 18:13:18,369 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-07 18:13:30,231 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-07 18:13:30,231 - agent_discussion_system - INFO - main_window.py:568 - 应用程序已关闭
+2026-01-07 18:13:30,242 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-07 18:13:30,243 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-07 18:13:30,243 - agent_discussion_system - INFO - openai_model.py:184 - OpenAI模型适配器HTTP客户端已关闭
+2026-01-07 18:24:27,234 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:24:27,373 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-07 18:24:27,373 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-07 18:24:27,373 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-07 18:24:27,374 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-07 18:24:27,374 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-07 18:24:27,730 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-07 18:24:27,730 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-07 18:24:27,730 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-07 18:24:27,730 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-07 18:24:27,730 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-07 18:24:27,730 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-07 18:24:27,731 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-07 18:24:27,750 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-07 18:24:28,273 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-07 18:24:28,278 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-07 18:24:28,281 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-07 18:24:28,284 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-07 18:24:28,457 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-08 00:46:39,247 - agent_discussion_system - INFO - discussion_engine.py:82 - 讨论主题已设置: dcvik
+2026-01-08 00:46:39,250 - agent_discussion_system - INFO - discussion_engine.py:95 - 终止条件已设置: 最大轮次=10, 每轮最大时间=60秒, 总最大时间=300秒
+2026-01-08 00:46:39,251 - agent_discussion_system - INFO - main_window.py:459 - 讨论开始，主题: dcvik
+2026-01-08 00:46:39,252 - agent_discussion_system - INFO - discussion_engine.py:99 - 讨论引擎启动
+2026-01-08 00:46:39,253 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家A 记忆已清空
+2026-01-08 00:46:39,253 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 专家B 记忆已清空
+2026-01-08 00:46:39,253 - agent_discussion_system - DEBUG - agent.py:82 - 智能体 协调者 记忆已清空
+2026-01-08 00:46:39,253 - agent_discussion_system - INFO - workflow_manager.py:207 - 讨论流程已重置
+2026-01-08 00:46:39,254 - agent_discussion_system - INFO - main_window.py:500 - 讨论开始
+2026-01-08 00:46:39,255 - agent_discussion_system - DEBUG - openai_model.py:103 - 调用OpenAI API，模型: gpt-4o-mini
+2026-01-08 00:46:55,484 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-08 00:46:56,493 - agent_discussion_system - INFO - main_window.py:568 - 应用程序已关闭
+2026-01-08 00:46:56,508 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-08 00:46:56,508 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-08 00:48:01,331 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-08 00:48:01,475 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-08 00:48:01,476 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-08 00:48:01,476 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-08 00:48:01,477 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-08 00:48:01,477 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-08 00:48:01,829 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-08 00:48:01,829 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-08 00:48:01,829 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-08 00:48:01,830 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-08 00:48:01,830 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-08 00:48:01,830 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-08 00:48:01,830 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-08 00:48:01,854 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-08 00:48:02,428 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-08 00:48:02,432 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-08 00:48:02,437 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-08 00:48:02,439 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-08 00:48:02,632 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-08 00:48:09,478 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-08 00:48:09,478 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-08 00:48:09,478 - agent_discussion_system - WARNING - app_config.py:128 - 配置键不存在: workflow
+2026-01-08 00:48:09,493 - agent_discussion_system - INFO - workflow_editor.py:767 - 讨论流程设计界面初始化完成
+2026-01-08 00:48:11,915 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-08 00:48:11,915 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-08 00:48:11,915 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-08 00:48:11,916 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-08 00:48:11,916 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-08 00:48:11,916 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-08 00:48:11,916 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-08 22:45:09,984 - agent_discussion_system - INFO - __init__.py:60 - 数据库管理器初始化完成，数据库路径：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-08 22:45:10,400 - agent_discussion_system - INFO - main.py:27 - 多智能体讨论系统 Beta 版启动
+2026-01-08 22:45:10,401 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-08 22:45:10,401 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-08 22:45:10,406 - agent_discussion_system - INFO - __init__.py:84 - 成功连接到数据库：C:\Users\32546\.agent_discussion_system\agent_discussion.db
+2026-01-08 22:45:10,407 - agent_discussion_system - INFO - main.py:36 - 数据库初始化成功
+2026-01-08 22:45:11,111 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-08 22:45:11,112 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-08 22:45:11,112 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-08 22:45:11,112 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-08 22:45:11,113 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-08 22:45:11,114 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-08 22:45:11,114 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-08 22:45:11,177 - agent_discussion_system - DEBUG - chat_widget.py:214 - 添加消息，发送者: 系统
+2026-01-08 22:45:11,838 - agent_discussion_system - INFO - chat_widget.py:146 - 聊天对话流组件初始化完成
+2026-01-08 22:45:11,846 - agent_discussion_system - INFO - input_widget.py:38 - 输入组件初始化完成
+2026-01-08 22:45:11,851 - agent_discussion_system - INFO - status_panel.py:38 - 状态面板组件初始化完成
+2026-01-08 22:45:11,854 - agent_discussion_system - INFO - main_window.py:68 - 主窗口初始化完成
+2026-01-08 22:45:12,033 - agent_discussion_system - INFO - main.py:54 - 应用程序启动成功
+2026-01-08 22:45:20,126 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-08 22:45:20,126 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-08 22:45:20,126 - agent_discussion_system - WARNING - app_config.py:128 - 配置键不存在: workflow
+2026-01-08 22:45:20,138 - agent_discussion_system - INFO - workflow_editor.py:767 - 讨论流程设计界面初始化完成
+2026-01-08 22:45:24,073 - agent_discussion_system - DEBUG - json_handler.py:62 - 成功从文件加载数据: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-08 22:45:24,074 - agent_discussion_system - INFO - app_config.py:78 - 配置文件加载成功
+2026-01-08 22:45:24,074 - agent_discussion_system - DEBUG - app_config.py:153 - 配置值设置成功: workflow = {'node_positions': {'agent_1': {'x': 100.0, 'y': 100.0}, 'agent_2': {'x': 350.0, 'y': 100.0}, 'agent_3': {'x': 600.0, 'y': 100.0}}, 'conditions': []}
+2026-01-08 22:45:24,076 - agent_discussion_system - DEBUG - json_handler.py:37 - 数据成功保存到文件: C:\Users\32546\Desktop\openagents\agent_discussion_system\config\config.json
+2026-01-08 22:45:24,076 - agent_discussion_system - INFO - app_config.py:98 - 配置文件保存成功
+2026-01-08 22:45:24,077 - agent_discussion_system - INFO - workflow_editor.py:464 - 工作流配置保存成功
+2026-01-08 22:45:24,077 - agent_discussion_system - INFO - workflow_editor.py:1002 - 保存讨论流程配置
+2026-01-08 22:45:30,857 - agent_discussion_system - DEBUG - agent_repository.py:50 - 获取所有智能体成功，共 3 个
+2026-01-08 22:45:30,858 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家A 已添加到流程管理器
+2026-01-08 22:45:30,858 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 专家B 已添加到流程管理器
+2026-01-08 22:45:30,859 - agent_discussion_system - WARNING - workflow_manager.py:59 - 无效的智能体权限：CAN_END_DISCUSSION，已忽略
+2026-01-08 22:45:30,859 - agent_discussion_system - INFO - workflow_manager.py:92 - 智能体 协调者 已添加到流程管理器
+2026-01-08 22:45:30,859 - agent_discussion_system - INFO - workflow_manager.py:74 - 已从数据库加载 3 个智能体
+2026-01-08 22:45:30,860 - agent_discussion_system - INFO - workflow_manager.py:122 - 讨论流程已设置，包含 3 个智能体
+2026-01-08 22:45:32,145 - agent_discussion_system - INFO - discussion_engine.py:281 - 讨论引擎终止
+2026-01-08 22:45:32,146 - agent_discussion_system - INFO - main_window.py:574 - 应用程序已关闭
+2026-01-08 22:45:32,159 - agent_discussion_system - INFO - __init__.py:132 - 数据库连接已关闭
+2026-01-08 22:45:32,160 - agent_discussion_system - INFO - main.py:59 - 数据库连接已断开
+2026-01-08 22:45:32,214 - agent_discussion_system - INFO - openai_model.py:184 - OpenAI模型适配器HTTP客户端已关闭

@@ -1,0 +1,43 @@
+{
+  "app": {
+    "version": "0.1.0",
+    "language": "zh-CN",
+    "theme": "light"
+  },
+  "model": {
+    "default_model": "gpt-4o-mini",
+    "api_base_url": "https://api.openai.com/v1",
+    "api_key": "",
+    "timeout": 30
+  },
+  "discussion": {
+    "max_rounds": 10,
+    "max_time_per_round": 60,
+    "max_total_time": 300
+  },
+  "knowledge_base": {
+    "enabled": true,
+    "vector_store_path": "C:\\Users\\32546\\Desktop\\openagents\\agent_discussion_system\\config\\vector_store"
+  },
+  "mcp": {
+    "enabled": true,
+    "timeout": 10
+  },
+  "workflow": {
+    "node_positions": {
+      "agent_1": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "agent_2": {
+        "x": 350.0,
+        "y": 100.0
+      },
+      "agent_3": {
+        "x": 600.0,
+        "y": 100.0
+      }
+    },
+    "conditions": []
+  }
+}
